@@ -1,2 +1,0 @@
-facebook-sharecode.np
-=====================
